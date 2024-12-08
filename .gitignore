@@ -1,2 +1,5 @@
 .venv
 data
+checkpoints
+lora_model
+05/
