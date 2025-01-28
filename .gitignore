@@ -3,3 +3,4 @@ data
 checkpoints
 lora_model
 05/
+*.pdf
